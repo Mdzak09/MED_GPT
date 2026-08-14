@@ -1,0 +1,33 @@
+# ==========================================
+# MedGPT - AI Medical Assistant
+# ==========================================
+
+# Chat Interface
+chainlit>=2.11.1
+
+# Environment Variables
+python-dotenv>=1.2.2
+
+# LangChain (Pinned for compatibility)
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-core==0.2.43
+langchain-openai==0.1.25
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.4
+
+# Vector Store
+faiss-cpu>=1.14.3
+
+# Embeddings & LLM Support
+sentence-transformers>=5.6.1
+transformers>=4.57.6
+torch>=2.3.0
+
+# PDF Processing
+PyMuPDF>=1.28.0
+
+# Utilities
+numpy>=1.26.4
+openai>=1.109.1
+tiktoken>=0.13.0
