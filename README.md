@@ -102,17 +102,16 @@ MedGPT/
 │   └── chat.png
 │
 ├── data/
-│   └── README.md
+│   └── data.pdf
 │
 ├── vectorstore/
 │   └── .gitkeep
 │
-├── app.py
+├── model.py
 ├── ingest.py
 ├── requirements.txt
 ├── README.md
-├── LICENSE
-├── .env.example
+├── .env
 └── .gitignore
 ```
 
@@ -123,9 +122,9 @@ MedGPT/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mdzak09/MED-GPT.git
+git clone https://github.com/Mdzak09/MED_GPT.git
 
-cd MED-GPT
+cd MED_GPT
 ```
 
 ---
@@ -313,7 +312,7 @@ git push origin feature-name
 **Md Zaheer Ahmed Khan**
 
 - GitHub: https://github.com/Mdzak09
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- LinkedIn: https://www.linkedin.com/in/andabonda/
 
 ---
 
